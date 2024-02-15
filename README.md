@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+I'm currently  working on a couple of apps and vst plugins
+
+I make music under the name DJRexasFire
+
 <!--
 **rhenrywarren/rhenrywarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#H
 Here are some ideas to get you started:
-
+### HI
 - 🔭 I’m currently working on ...
 ### I'm working on a couple of apps and vst plugins
 - 🌱 I’m currently learning ...
