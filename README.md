@@ -2,6 +2,8 @@
 
 I'm currently  working on a couple of apps and vst plugins
 
+I also made CrossOver Liberator, It gives you CrossOver for free, you can get it [HERE](https://github.com/rhenrywarren/CrossoverFree)
+
 I make music under the name DJRexasFire
 
 <!--
