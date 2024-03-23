@@ -2,7 +2,7 @@
 
 I'm currently  working on a couple of apps and vst plugins
 
-I also made CrossOver Liberator, It gives you CrossOver for free, you can get it [HERE](https://github.com/rhenrywarren/CrossoverFree)
+I also make app "Liberators", which extend your free trial forever, an give you the app for FREE
 
 I make music under the name DJRexasFire
 
