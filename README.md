@@ -2,6 +2,8 @@
 
 I'm currently  working on a couple of apps and vst plugins
 
+I am in charge of posting and updating all the old "Liberators" by rhenrywarren
+
 
 
 <!--
