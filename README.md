@@ -2,7 +2,9 @@
 
 I'm currently  working on a couple of apps and vst plugins
 
-I am in charge of posting and updating all the old "Liberators" by rhenrywarren
+#### Some repos may not live for long, due to DMCA Takedowns, so copy our repos while you can!
+
+I am posting and updating all the old "Liberators" by rhenrywarren
 
 
 
