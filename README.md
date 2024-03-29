@@ -2,9 +2,7 @@
 
 I'm currently  working on a couple of apps and vst plugins
 
-I also make app "Liberators", which extend your free trial forever, an give you the app for FREE
 
-I make music under the name DJRexasFire
 
 <!--
 **rhenrywarren/rhenrywarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
