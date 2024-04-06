@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hey there!
+
+##### Making And Breaking Software
 
 I'm currently  working on a couple of apps and vst plugins
 
