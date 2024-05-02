@@ -8,9 +8,7 @@ We're currently working on a couple of apps and vst plugins
 
 We are posting and updating all the old "Liberators" by rhenrywarren
 
-Feel free to contact us! We will respond within 48 hours.
-<a href="https://spamty.eu/show/v7/177/7dc8bbcd39/" onclick="mailhidepopup=window.open('https://spamty.eu/show/v7/177/7dc8bbcd39/','mailhidepopup','width=580,height=635'); return false;">CLICK TO REVEAL EMAIL</a>
-
+Our email, address, founder's cat's name (and nickname) and more: <a href="https://spamty.eu/show/v6/20378/bfccad7d8d7e1e8ec1bfd523/" onclick="mailhidepopup=window.open('https://spamty.eu/show/v6/20378/bfccad7d8d7e1e8ec1bfd523/','mailhidepopup','width=580,height=635'); return false;">CLICK TO REVEAL</a>
 
 
 <!--
