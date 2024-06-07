@@ -4,6 +4,8 @@
 
 We're currently working on a couple of apps and vst plugins
 
+We Are The Creator of The Tapioca AI Series
+
 #### Some repos may not live for long, due to DMCA Takedowns, so copy our repos while you can!
 
 We are posting and updating all the old "Liberators" by rhenrywarren
