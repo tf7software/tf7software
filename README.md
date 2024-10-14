@@ -4,6 +4,8 @@
 
 We're currently working on a couple of apps and vst plugins
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tf7software)](https://github.com/anuraghazra/github-readme-stats)
+
 ### We Are The Creator of The Tapioca AI Series
 
 #### Some repos may not live for long, due to DMCA Takedowns, so copy our repos while you can!
