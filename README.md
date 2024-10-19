@@ -4,6 +4,8 @@
 
 We're currently working on a couple of apps and vst plugins
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tf7software&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tf7software&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tf7software&layout=compact&theme=dark)
