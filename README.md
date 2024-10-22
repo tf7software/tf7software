@@ -2,7 +2,7 @@
 
 ##### Making And Breaking Software
 
-We're currently working on a couple of apps and vst plugins
+I am currently working on LupineVault and Infintium AI
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tf7software&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
@@ -15,7 +15,7 @@ We're currently working on a couple of apps and vst plugins
 
 The old "Liberators" and "TF7-4's" have been discontinued due to repeated DMCA takedowns.
 
-Our email, address, founder's cat's name (and nickname) and more: <a href="https://spamty.eu/show/v6/20378/bfccad7d8d7e1e8ec1bfd523/" onclick="mailhidepopup=window.open('https://spamty.eu/show/v6/20378/bfccad7d8d7e1e8ec1bfd523/','mailhidepopup','width=580,height=635'); return false;">CLICK TO REVEAL</a>
+My email, address, my cat's name (and nickname) and more: <a href="https://spamty.eu/show/v6/20378/bfccad7d8d7e1e8ec1bfd523/" onclick="mailhidepopup=window.open('https://spamty.eu/show/v6/20378/bfccad7d8d7e1e8ec1bfd523/','mailhidepopup','width=580,height=635'); return false;">CLICK TO REVEAL</a>
 
 
 <!--
