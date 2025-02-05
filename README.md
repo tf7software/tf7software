@@ -15,7 +15,7 @@ I am currently working on LupineVault, Infintium AI, and a game in [PICO-8](http
 
 The old "Liberators" and "TF7-4's" have been discontinued due to repeated DMCA takedowns.
 
-My email, address, my cat's name (and nickname) and more: <a href="https://spamty.eu/show/v6/20378/bfccad7d8d7e1e8ec1bfd523/" onclick="mailhidepopup=window.open('https://spamty.eu/show/v6/20378/bfccad7d8d7e1e8ec1bfd523/','mailhidepopup','width=580,height=635'); return false;">CLICK TO REVEAL</a>
+
 
 
 <!--
